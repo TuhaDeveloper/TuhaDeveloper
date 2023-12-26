@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 Passionately dedicated to **Continuous Learning**
 
 - 👨‍💻 All of my projects are available at [https://tohaportfolio.web.app](https://tohaportfolio.web.app)
 
