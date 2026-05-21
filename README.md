@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jahidul Islam Tuha</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hi 👋, I'm Jahidul Islam Toha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="tuhadeveloper" /> </p>
+<h3 align="center">Full-Stack Web Developer | Laravel (Backend Focus) | REST API Developer | Scalable Web Applications</h3>
 
-- 🔭 I’m currently working on **IMBD Agency Ltd**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tuhadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="tuhadeveloper" /> 
+</p>
 
-- 🌱 Passionately dedicated to **Continuous Learning**
-
+- 🔭 I’m currently working on **Laravel-based web applications**
+- 🌱 Currently focused on **Laravel (Backend Development) & REST APIs**
 - 👨‍💻 All of my projects are available at [https://tohaportfolio.web.app](https://tohaportfolio.web.app)
-
-- 💬 Ask me about **web development**
-
+- 💬 Ask me about **Laravel, PHP, REST APIs, Web Development**
 - 📫 How to reach me **jahid2005tuha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
