@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Laravel-based web applications**
 - 🌱 Currently focused on **Laravel (Backend Development), REST APIs & React for frontend**
-- 👨‍💻 All of my projects are available at [https://tohaportfolio.web.app](https://tohaportfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://tohadeveloper.vercel.app](https://tohadeveloper.vercel.app)
 - 💬 Ask me about **Laravel, PHP, React, REST APIs, Web Development**
 - 📫 How to reach me **jahid2005tuha@gmail.com**
 
